@@ -1,0 +1,39 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+
+.header{
+    background-color: lightseagreen;
+    border-bottom: 3px solid indigo;
+    color: white;
+    font-size: 28px;
+    margin-bottom: 15px;
+    padding: 22px;
+    text-align: center;
+}
+
+.container{
+    background-color: gainsboro;
+    border: 1px black dashed;
+    border-radius: 5px;
+    margin-left: 25%;
+    margin-bottom: 15px;
+    padding-left: 12px;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    text-align: center;
+    width: 50%;  
+}
+
+.pie{
+    background-color: rebeccapurple;
+    border-top: 1px solid lightseagreen;
+    columns: white;
+    height: 40px;
+    padding: 12px;
+    text-align: center;
+
+}
